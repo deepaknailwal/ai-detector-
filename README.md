@@ -15,7 +15,7 @@ This project detects whether a given text is AI-generated or human-written.
 - JavaScript
 
 ## 🌐 Live Demo
-https://YOUR-USERNAME.github.io/ai-detector/
+https://deepaknailwal.github.io/ai-detector/
 
 ## 📦 Installation (Extension)
 1. Download the repo
